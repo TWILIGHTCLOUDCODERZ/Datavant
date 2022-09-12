@@ -1,3 +1,7 @@
+## Youtube Link : [https://www.youtube.com/watch?v=o8mxVLT-JU0](https://www.youtube.com/watch?v=o8mxVLT-JU0)
+
+## Website Link : [https://datavantraptor.azurewebsites.net/](https://datavantraptor.azurewebsites.net/)
+
 ## Inspiration:-
 &emsp;&emsp;Artificial Intelligence (AI) reshapes companies and how innovation management is organized. Consistent with rapid technological development and the replacement of human organization, AI may indeed compel management to rethink a company's entire innovation process.
 
